@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74228852029",
+    "project_id": "pushnotificationexample-5e1fd",
+    "storage_bucket": "pushnotificationexample-5e1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74228852029:android:9e07e4a237e2ce61fad154",
+        "android_client_info": {
+          "package_name": "com.monir.pushnotificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74228852029-ucqm0ro24gkcurdj50a7tf4tu99qqk9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOz16htc_l2DrBuvb2t4cuY-2C_norC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74228852029-ucqm0ro24gkcurdj50a7tf4tu99qqk9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
